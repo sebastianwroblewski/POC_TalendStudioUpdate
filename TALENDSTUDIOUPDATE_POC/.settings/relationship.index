@@ -22,7 +22,40 @@
   } ]
 }, {
   "baseItem" : {
+    "id" : "_xyu5MLxJEe6uCqbL-61pkg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
     "id" : "_ksGPkLxIEe6uCqbL-61pkg",
+    "version" : "Latest",
+    "type" : "joblet"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_y9QLkLxJEe6uCqbL-61pkg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "TALENDSTUDIOUPDATE_POC:_MNKbgLxIEe6uCqbL-61pkg",
+    "version" : "Latest",
+    "type" : "job"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_ksGPkLxIEe6uCqbL-61pkg",
+    "version" : "0.1",
+    "type" : "joblet"
+  },
+  "relatedItems" : [ {
+    "id" : "_kCMW8LxIEe6uCqbL-61pkg",
+    "version" : "Latest",
+    "type" : "joblet"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_sB478LxJEe6uCqbL-61pkg",
     "version" : "0.1",
     "type" : "joblet"
   },

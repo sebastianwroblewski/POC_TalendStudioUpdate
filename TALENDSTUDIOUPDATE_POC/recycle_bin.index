@@ -1,5 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<recyclebin:RecycleBin xmlns:recyclebin="http://www.talend.org/recyclebin">
-  <deletedItems id="_hJRCALxIEe6uCqbL-61pkg" path="DifferentJobletFolder2" type="JOBLET"/>
-  <deletedItems id="_gaIEELxIEe6uCqbL-61pkg" path="jobletFolder1" type="JOBLET"/>
-</recyclebin:RecycleBin>
+<recyclebin:RecycleBin xmlns:recyclebin="http://www.talend.org/recyclebin"/>
