@@ -1,1 +1,34 @@
-[ ]
+[ {
+  "baseItem" : {
+    "id" : "_MNKbgLxIEe6uCqbL-61pkg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_ksGPkLxIEe6uCqbL-61pkg",
+    "version" : "Latest",
+    "type" : "joblet"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_ZYDvgLxIEe6uCqbL-61pkg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "TALENDSTUDIOUPDATE_POC:_MNKbgLxIEe6uCqbL-61pkg",
+    "version" : "Latest",
+    "type" : "job"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_ksGPkLxIEe6uCqbL-61pkg",
+    "version" : "0.1",
+    "type" : "joblet"
+  },
+  "relatedItems" : [ {
+    "id" : "_kCMW8LxIEe6uCqbL-61pkg",
+    "version" : "Latest",
+    "type" : "joblet"
+  } ]
+} ]
